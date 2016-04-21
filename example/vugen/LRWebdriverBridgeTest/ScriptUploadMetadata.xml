@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>LRWebdriverBridgeTest</ScriptName>
+  <Protocol>Java Record Replay</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.java" Filter="2" />
+    <FileEntry Name="Actions.java" Filter="2" />
+    <FileEntry Name="vuser_end.java" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="LRWebdriverBridgeTest.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="LRWebdriverBridge-core-1.0.jar" Filter="2" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="2" />
+    <FileEntry Name="Action.c" Filter="1" />
+    <FileEntry Name="Actions$1.class" Filter="1" />
+    <FileEntry Name="Actions.class" Filter="1" />
+    <FileEntry Name="Actions.java.bak" Filter="1" />
+    <FileEntry Name="Actions.java.sed" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="LRWebdriverBridgeTest.sdf" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="phantomjsdriver.log" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="stdOutErr.txt" Filter="1" />
+    <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="vuser_end.c" Filter="1" />
+    <FileEntry Name="vuser_init.c" Filter="1" />
+    <FileEntry Name="actions\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>
